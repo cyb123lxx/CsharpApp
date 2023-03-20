@@ -1,0 +1,15 @@
+E:\我的文件\cpp2\Assignment4\bin\Debug\net6.0\Assignment4.exe
+E:\我的文件\cpp2\Assignment4\bin\Debug\net6.0\Assignment4.deps.json
+E:\我的文件\cpp2\Assignment4\bin\Debug\net6.0\Assignment4.runtimeconfig.json
+E:\我的文件\cpp2\Assignment4\bin\Debug\net6.0\Assignment4.dll
+E:\我的文件\cpp2\Assignment4\bin\Debug\net6.0\Assignment4.pdb
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\Assignment4.csproj.AssemblyReference.cache
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\Assignment4.AssemblyInfoInputs.cache
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\Assignment4.AssemblyInfo.cs
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\Assignment4.csproj.CoreCompileInputs.cache
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\Assignment4.dll
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\refint\Assignment4.dll
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\Assignment4.pdb
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\Assignment4.genruntimeconfig.cache
+E:\我的文件\cpp2\Assignment4\obj\Debug\net6.0\ref\Assignment4.dll
